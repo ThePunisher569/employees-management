@@ -1,6 +1,6 @@
 # Employees Management
 
-## Web application based on react and spring boot
+## Full-Stack Web application based on react and spring boot
 
 ## For Frontend:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
